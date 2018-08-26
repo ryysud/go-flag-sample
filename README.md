@@ -1,5 +1,12 @@
 # go-flag-sample
 
+## version
+
+```bash
+$ go version
+go version go1.11 darwin/amd64
+```
+
 ## sample1
 
 ```bash
